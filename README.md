@@ -51,3 +51,14 @@ also, this can be also extended to other zoos and natural wonders, so the possib
 
 
 Wildsacpe solves a real problem, has a viable business model, and makes a positive impact, and it is redefining the future of eco-adventures.
+
+## Snapshots:
+
+![Screenshot 2023-09-10 205126](https://github.com/Codingpanda252/WildScape_VR/assets/129882142/b26da14f-d938-4753-bdff-cd5ba6265bc9)
+![Screenshot 2023-09-10 204944](https://github.com/Codingpanda252/WildScape_VR/assets/129882142/10608c8f-6168-4bfb-83b9-e9e323f2f78f)
+![Screenshot 2023-09-10 203723](https://github.com/Codingpanda252/WildScape_VR/assets/129882142/048c23f3-8e5c-45dc-8082-8adc53f31f4b)
+![2efd9f95-b95a-4e47-86fe-054a01a3fe05](https://github.com/Codingpanda252/WildScape_VR/assets/129882142/68367db4-ec40-41be-8b69-48eb4c4ff550)
+![image (5)](https://github.com/Codingpanda252/WildScape_VR/assets/129882142/9abbfc7a-d112-49a4-8ea7-d2f69bb808ae)
+
+##Author:
+Developed by Code Ignite in HackOdisha 3.0
