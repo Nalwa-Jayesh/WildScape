@@ -8,13 +8,17 @@ So with the launch of Apple Vision pro, and oculus quest, VR is emerging to be t
 
 Wildscape offers a lifelike, interactive, and educational experience. Here's how it works:
 
-## Immersive Environment: Users step into a virtual Nandankanan Zoo, complete with realistic animal habitats, lush landscapes, and informative exhibits.
+## Immersive Environment: 
+Users step into a virtual Nandankanan Zoo, complete with realistic animal habitats, lush landscapes, and informative exhibits.
 
-## Realistic Animals: we painstakingly recreated the animals in high fidelity using Unreal Engine and the animals are powered by ai, which offer a wide range of animations and interactions. Additionally, visitors can get up close to them without any danger.
+## Realistic Animals: 
+we painstakingly recreated the animals in high fidelity using Unreal Engine and the animals are powered by ai, which offer a wide range of animations and interactions. Additionally, visitors can get up close to them without any danger.
 
-## Interactive Learning: Wildscape is not just about sightseeing. It's an educational tool, offering users the opportunity to learn about the animals, their habitats, and conservation efforts through interactive exhibits
+## Interactive Learning: 
+Wildscape is not just about sightseeing. It's an educational tool, offering users the opportunity to learn about the animals, their habitats, and conservation efforts through interactive exhibits
 
-## Accessibility: By using VR technology, we've made the Nandankanan Zoo accessible to everyone, regardless of physical location or mobility issues.
+## Accessibility: 
+By using VR technology, we've made the Nandankanan Zoo accessible to everyone, regardless of physical location or mobility issues.
 
 
 ## Business Model n future scope:
