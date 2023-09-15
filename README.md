@@ -60,5 +60,5 @@ Wildsacpe solves a real problem, has a viable business model, and makes a positi
 ![2efd9f95-b95a-4e47-86fe-054a01a3fe05](https://github.com/Codingpanda252/WildScape_VR/assets/129882142/68367db4-ec40-41be-8b69-48eb4c4ff550)
 ![image (5)](https://github.com/Codingpanda252/WildScape_VR/assets/129882142/9abbfc7a-d112-49a4-8ea7-d2f69bb808ae)
 
-##Author:
+## Author:
 Developed by Code Ignite in HackOdisha 3.0
