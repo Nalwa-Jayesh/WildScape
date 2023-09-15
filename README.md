@@ -14,7 +14,7 @@ Wildscape offers a lifelike, interactive, and educational experience. Here's how
 
 ## Interactive Learning: Wildscape is not just about sightseeing. It's an educational tool, offering users the opportunity to learn about the animals, their habitats, and conservation efforts through interactive exhibits
 
- Accessibility: By using VR technology, we've made the Nandankanan Zoo accessible to everyone, regardless of physical location or mobility issues.
+## Accessibility: By using VR technology, we've made the Nandankanan Zoo accessible to everyone, regardless of physical location or mobility issues.
 
 
 ## Business Model n future scope:
@@ -31,12 +31,12 @@ Education: We're fostering a love for wildlife and environmental conservation th
 Inclusivity: Wildscape ensures that everyone, regardless of their circumstances, can connect with nature and wildlife.
 
 
-## future:
+## Future:
 now onto the future scope.
 we had also planned a few more features, but due to time constraints we werent able to implement them.
 
 
-## expansion:
+## Expansion:
 
 Expanded Wildlife: our zoo has about 5-6 species, but the actual zoo has over 30 . we r plannign to expand n add the remaining species , which will allow us to explore the full diversity of the Nandankanan Zoo from the comfort of our home.
  
